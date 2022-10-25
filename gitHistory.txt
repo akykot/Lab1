@@ -33,4 +33,24 @@ Date:   Tue Oct 25 22:57:25 2022 +0300
 
     added readme
 
-    
+4. .git/objects/0d/f6afe0c18f3d83daafd504a7f5765b897841b8
+.git/objects/5d/a003abc927e51a2fda21c29d94191dfe163cf0
+.git/objects/7e/a8d7f348fbd8bf66adc92a07b93c53dd659440
+.git/objects/7f/b03ac4e84f4cc994e993fbc67019d12dd38b8b
+.git/objects/8d/a97f73d9d435b4f6bfb68bb7ca821fca74b46e
+.git/objects/13/2fe9c4bd138cffb00736126df8c17b823a7146
+.git/objects/35/2e920b3ae79ad7974dce293607d4a0023eb401
+.git/objects/41/631cf1fee74b07f6b8bc259fc329d8a8c3d93f
+.git/objects/ae/85801e3c67912f12a736d7d138f943c0d2b2f2
+.git/objects/b1/7c133e5e02c7efc982ebbd11517e870378408c
+.git/objects/b9/ef34a4170b1ab6d9f1f022c16f46e5acf67b0f
+.git/objects/c4/553072862714a6088664a7c6ce83475ec4d4e2
+.git/objects/info
+.git/objects/pack  
+
+5. PS E:\ІВеТе\7 семестр\Веб\Git\Lab1> git log
+commit ae85801e3c67912f12a736d7d138f943c0d2b2f2 (HEAD -> master)
+Author: akykot <2307antonina2002@gmail.com>
+Date:   Tue Oct 25 23:07:09 2022 +0300
+
+    added changes to githistory
