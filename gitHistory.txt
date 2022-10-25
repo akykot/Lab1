@@ -13,3 +13,24 @@ Untracked files:
         gitHistory.txt
 
 nothing added to commit but untracked files present (use "git add" to track)
+
+3. PS E:\ІВеТе\7 семестр\Веб\Git\Lab1> git log
+commit 352e920b3ae79ad7974dce293607d4a0023eb401 (HEAD -> master)
+Author: akykot <2307antonina2002@gmail.com>
+Date:   Tue Oct 25 23:04:18 2022 +0300
+
+    added githitory
+
+commit 7ea8d7f348fbd8bf66adc92a07b93c53dd659440
+Author: akykot <2307antonina2002@gmail.com>
+Date:   Tue Oct 25 23:00:32 2022 +0300
+
+    added changes
+
+commit 8da97f73d9d435b4f6bfb68bb7ca821fca74b46e
+Author: akykot <2307antonina2002@gmail.com>
+Date:   Tue Oct 25 22:57:25 2022 +0300
+
+    added readme
+
+    
